@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am editing this file.
+I am currently attending Buffalo State University to earn a Bachelor's degree in computer information system.
+
+![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <!--
 **taylorn05/taylorn05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
